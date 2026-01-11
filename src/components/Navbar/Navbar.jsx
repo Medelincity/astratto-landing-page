@@ -5,7 +5,7 @@ import { ArrowUpRight } from "lucide-react";
 const Navbar = () => {
   return (
     <header>
-      <nav className="w-full border-b border-zinc-500 flex items-center justify-between px-3 py-4 sm:px-6">
+      <nav className="fixed top-0 left-0 bg-white z-50 w-full border-b border-zinc-500 flex items-center justify-between px-3 py-4 sm:px-6">
         <div className="left hidden sm:flex sm:gap-6 md:gap-8 text-sm font-medium cursor-pointer md:text-base">
           {navLinks.map((item, i) => (
             <a key={i} href={item.link}>
